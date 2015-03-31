@@ -1,4 +1,4 @@
-package com.sswf.vote;
+package com.sswf.vote.model;
 
 import java.io.Serializable;
 
